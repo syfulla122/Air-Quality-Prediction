@@ -1,3 +1,4 @@
+# Air-Quality-Prediction
 ### 📋 Overview
 This project analyzes historical air quality data to understand pollution trends and predict Air Quality Index (AQI) levels. It processes environmental factors such as Sulphur Dioxide (SO2), Nitrogen Dioxide (NO2), and Respirable Suspended Particulate Matter (RSPM) to classify air quality and forecast pollution levels using Machine Learning.
 
@@ -34,4 +35,4 @@ The analysis uses `data.csv`, which contains:
 
 ### 📊 Results
 The project evaluates models using **Mean Absolute Error (MAE)** and **R² Score** to determine the most accurate predictor for air quality monitoring.# Air-Quality-Prediction
-# Air-Quality-Prediction
+
